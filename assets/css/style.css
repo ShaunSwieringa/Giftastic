@@ -1,0 +1,36 @@
+html{
+	background-color:#9A48D0;
+	color:#011502;
+	font-family: 'Montserrat', sans-serif;
+}
+
+h1{
+	font-size:36px;
+	font-weight:bold;
+}
+
+.content{
+	background-color:#9A48D0;
+	width:70%;
+	padding:20px;
+	margin:20px auto;
+}
+
+.jumbotron{
+	background-color:#9A48D0;
+}
+
+button:hover{
+	background-color:white;
+	color:#7E5A9B;
+}
+
+.btn{
+	border-radius:3px;
+	padding:4px;
+	margin:4px;
+	background-color:#7B1E7A;
+	color:white;
+	font-weight:bold;
+	
+}
